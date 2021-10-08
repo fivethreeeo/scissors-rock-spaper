@@ -1,7 +1,7 @@
 # Web Game: Scissors Rock Paper
 
 - 가위바위보 게임
-- https://mansaout.github.io/scissors-rock-paper/
+- https://mansaout.github.io/scissors-rock-spaper/
 
 <br>
 
